@@ -1,8 +1,7 @@
 class Player {
   final String name;
-  int xp;
+  int xp, age;
   String team;
-  int age;
 
   Player({
     required this.name,
